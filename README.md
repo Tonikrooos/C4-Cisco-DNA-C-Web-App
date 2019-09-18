@@ -18,6 +18,6 @@ $ node server.js
 $ npm run dev
 ```
 
-4.客户端运行在[localhost:8000]（localhost:8000）端口下，点击进行登录；
+4.客户端运行在[localhost:8000]（http://localhost:8000)；
   用户名/密码：admin/admin
  
