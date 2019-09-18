@@ -1,7 +1,7 @@
 # C4-Cisco-DNA-C-Web-App
 使用Cisco DNA-C接口的网管系统WebApp
 
-##User Guide
+# User Guide
 
 1.启动后端数据库服务器：
 ```sh
@@ -18,6 +18,6 @@ $ node server.js
 $ npm run dev
 ```
 
-4.客户端运行在[localhost:8000]（http://localhost:8000)；
+4.客户端运行在http://localhost:8000
   用户名/密码：admin/admin
  
