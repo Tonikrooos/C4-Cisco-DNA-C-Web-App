@@ -1,6 +1,12 @@
 # C4-Cisco-DNA-C-Web-App
 使用Cisco DNA-C API开发的网管系统WebApp
 
+# 运行环境
+
+* python
+* Nodejs
+* Vuejs
+
 # 使用指南
 
 1.启动后端数据库服务器：
