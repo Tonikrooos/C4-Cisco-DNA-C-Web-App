@@ -1,9 +1,9 @@
 # C4-Cisco-DNA-C-Web-App
-使用Cisco DNA-C API开发的网管系统WebApp
+使用Cisco DNA API开发的网管系统WebApp
 
 # 运行环境
 
-* python
+* Python
 * Nodejs
 * Vuejs
 
@@ -29,6 +29,5 @@ $ npm run dev
  
 # 开发指南
 
-- 网管系统由Cisco DNA-C服务器提供数据支持，所测试的网络环境参考https://developer.cisco.com/docs/dna-center/#!cisco-dna-center-sandboxes/cisco-dna-center-sandboxes
-- 数据库服务器通过API访问Cisco DNA-C服务器获取数据，API信息参考https://developer.cisco.com/site/dna-center-rest-api/?version=1.210
-
+- 网管系统由Cisco DNA服务器提供数据支持，所测试的网络环境参考https://developer.cisco.com/docs/dna-center/#!cisco-dna-center-sandboxes/cisco-dna-center-sandboxes
+- 数据库服务器通过API访问Cisco DNA服务器获取数据，API信息参考https://developer.cisco.com/site/dna-center-rest-api/?version=1.210
